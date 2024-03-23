@@ -12,7 +12,7 @@ Shifts the histogram by a specified value, effectively changing the brightness o
 Plot Cumulative Image Histogram:
 
 Computes and plots the cumulative histogram of the input image, providing insights into the cumulative distribution of pixel intensities.
-Histogram Equalization:
+## Histogram Equalization:
 
 Performs histogram equalization on the input image to enhance contrast and improve visual quality. This technique redistributes pixel intensities to achieve a more balanced histogram.
 
@@ -30,7 +30,7 @@ Generates and plots the histogram of the modified image to visualize the effects
 Plot Modified Image Cumulative Histogram:
 
 Computes and plots the cumulative histogram of the modified image, illustrating the distribution of pixel intensities after histogram equalization.
-Experiment-2: Contrast Stretching
+## Experiment-2: Contrast Stretching
 
 Use Image Histogram to Deduce Parameters for Contrast Stretching:
 
